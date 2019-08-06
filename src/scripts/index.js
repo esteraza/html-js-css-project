@@ -2,6 +2,8 @@
 *
 * Use the following endpoint using the window.fetch api to get a collection of jobs back
 * http://api.dataatwork.org/v1/jobs/autocomplete?contains=engineer
+* instructions for api use you can find here
+* https://docs.google.com/document/d/1IeMPWWPOv1P0mDe7MYGrPxjhb5Qz-R-vqBSSObDDJug/edit#
 *
 * The query part should come from an input you have in your html
 * (need to attach an event to it using window.addEventListener)
