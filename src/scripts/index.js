@@ -5,6 +5,10 @@
 * instructions for api use you can find here
 * https://docs.google.com/document/d/1IeMPWWPOv1P0mDe7MYGrPxjhb5Qz-R-vqBSSObDDJug/edit#
 *
+* DOM apis
+* https://www.w3schools.com/jsref/met_element_addeventlistener.asp
+* https://www.w3schools.com/js/js_htmldom_nodes.asp
+*
 * The query part should come from an input you have in your html
 * (need to attach an event to it using window.addEventListener)
 * 1. keep first 10 results and add them to your page
